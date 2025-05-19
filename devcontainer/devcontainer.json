@@ -1,0 +1,11 @@
+{
+  "name": "Pterodactyl Docker Setup",
+  "dockerFile": "Dockerfile",
+  "runArgs": ["--privileged"],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "postCreateCommand": "bash setup.sh",
+  "forwardPorts": [8080, 443],
+  "remoteUser": "root"
+}
