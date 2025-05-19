@@ -7,6 +7,9 @@
    ```bash
    git clone https://github.com/spookyMC123/codesandbox-petro-panel.git
    ```
+4. ``` bash
+   cd codesandbox-petro-panel
+   ```
 3. Run the script:
 
 ```bash
