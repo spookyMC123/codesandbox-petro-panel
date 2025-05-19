@@ -3,10 +3,11 @@
 ## 🚀 Setup Instructions (Local or Codespaces)
 
 1. Clone the repo
-2. ```bash
+2.clone repo
+   ```bash
    git clone https://github.com/spookyMC123/codesandbox-petro-panel.git
    ```
-5. Run the script:
+3. Run the script:
 
 ```bash
 bash setup.sh
