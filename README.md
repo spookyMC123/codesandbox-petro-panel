@@ -3,9 +3,8 @@
 ## 🚀 Setup Instructions (Local or Codespaces)
 
 1. Clone the repo
-2. ```bash
-3. git clone https://github.com/spookyMC123/codesandbox-petro-panel.git
-4. ```
+2. ```bash git clone https://github.com/spookyMC123/codesandbox-petro-panel.git
+   ```
 5. Run the script:
 
 ```bash
